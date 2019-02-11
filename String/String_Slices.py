@@ -23,4 +23,6 @@ print(letter_H_1, letter_E_1, letter_L_1, letter_L_2, letter_O_1, every_second_l
 #         Please don't use '\n' character in variable.
 # line 7: Please don't use '\n' character as values.
 #         Please take a look on documentation for print function (sep argument)
+
 # endregion
+

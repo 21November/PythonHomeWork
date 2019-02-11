@@ -1,0 +1,5 @@
+folder strings should be named homework_1
+folder homework_1 should be pakcage not simple folder
+Name of String Slice should be:
+    1. name of module without class should be in lower case
+    2. name should not contain ' ' character. For word separation use '_'
