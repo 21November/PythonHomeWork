@@ -1,12 +1,12 @@
 word = "Hello"
 
-letter_H_1 = word[0] # prints the letter with the 0th index
-letter_E_1 = word[1] # prints the letter with the 1th index
-letter_L_1 = word[2] # prints the letter with the 2th index
-letter_L_2 = word[3] # prints the letter with the 3th index
-letter_O_1 = word[4] # prints the letter with the 4th index
-every_second_letter = word[::2] # output of every second character of a word
-reverse_word = word[::-1] # character word output in reverse order
+letter_H_1 = word[0]  # prints the letter with the 0th index
+letter_E_1 = word[1]  # prints the letter with the 1th index
+letter_L_1 = word[2]  # prints the letter with the 2th index
+letter_L_2 = word[3]  # prints the letter with the 3th index
+letter_O_1 = word[4]  # prints the letter with the 4th index
+every_second_letter = word[::2]  # output of every second character of a word
+reverse_word = word[::-1]  # character word output in reverse order
 
 print(letter_H_1, letter_E_1, letter_L_1, letter_L_2, letter_O_1, every_second_letter, reverse_word, sep='\n\n\n')
 
@@ -26,3 +26,6 @@ print(letter_H_1, letter_E_1, letter_L_1, letter_L_2, letter_O_1, every_second_l
 
 # endregion
 
+# region comments not for rework
+# lines 3-7 there is no print function invocation so this expressions just return value into the attribute
+# endregion
