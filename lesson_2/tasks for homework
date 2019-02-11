@@ -1,0 +1,23 @@
+task1:
+create variables for int, float, bool, string.
+
+task2:
+create variable for each result of math operations (+-/* end etc.)
+
+task3:
+try to understand different between next 2 operations
+math.pow(-2, 2)
+-2 ** 2
+
+task4:
+try to understand difference between next 2 operations
+math.sqrt(x)
+x ** 1/2
+
+task5:
+try to cast int to float, float to int, int to bool, bool to int.
+
+task6:
+try to round 10/3 with 2 signs after comma using round method
+and using string format
+and using f string
