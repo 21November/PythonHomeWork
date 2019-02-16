@@ -45,8 +45,11 @@ rounding_3 = f"{number_5:.2f}"                 # Rounding up to two digits after
 print ("Task 6", number_5, rounding_1, rounding_2, rounding_3, sep='\n')
 
 # region comments for homework iteration #1
-# TODO: 1) Common issue 1 space before line comment. Please read PEP8.
-# TODO: 2) Common issue space after print function name and before round braces of function. Please read PEP8
-# TODO: 3) Task #2 Not all arithmetic operations present(modulus and Floor division)
-# TODO: 4) Line 31 - confusing comment, Line 32 comment for customization is not present.
+# endregion
+
+# region comments for homework iteration #2
+# TODO: line 9 space after # should be according to PEP8.
+# TODO: line 43 such long comments will be better to separate on several comments in several lines.
+#       Max length of comment should be 130 symbols up to vertical grey line according to PEP8.
+# TODO: line 45 space after print function name according to PEP8.
 # endregion
