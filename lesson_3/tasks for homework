@@ -1,0 +1,17 @@
+Task 1:
+1. Craete list using syntax sugar brases
+2. Create list using list constructor
+3. Create list from string both known methods
+3. Create list using list comprehension
+
+Task 2:
+1. Add element into the list
+2. Add element into the list on fixed index/position
+3. Get last element of the list using index or method
+4. Get element of the list using fixed index using index or specified method
+5. Remove element of the list
+6 Describe difference between pop and remove methods
+
+Task 3:
+1. Create list of numbers and sort by ascending and descending using sort function(sort, reverse)
+2. Create own sort function using any known algorithm of sorting by ascending.
