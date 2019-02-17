@@ -5,7 +5,7 @@ float_1 = 3.14
 bool_1 = True
 word = "Python"
 
-#Task 2
+# Task 2
 number_1 = int_1 + 6.5   # Mathematical addition operation
 number_2 = int_1 - 1.9   # Mathematical operation taking away
 number_3 = int_1 / 2     # Mathematical operation division
@@ -40,9 +40,10 @@ print("Task 5", float_2, int_6, bool_2, int_7, sep='\n')
 number_5 = 10 / 3
 rounding_1 = round(number_5, 2)                # Rounding to two digits after the floating point with the command
 rounding_2 = '{0:.{1}f}'.format(number_5, 2)   # Rounding to two digits after a floating point using a string format
-rounding_3 = f"{number_5:.2f}"                 # Rounding up to two digits after a floating-point number using the f-string method
+rounding_3 = f"{number_5:.2f}"                 # Rounding up to two digits after a floating-point number using
+                                               # the f-string method
 
-print ("Task 6", number_5, rounding_1, rounding_2, rounding_3, sep='\n')
+print("Task 6", number_5, rounding_1, rounding_2, rounding_3, sep='\n')
 
 # region comments for homework iteration #1
 # endregion
