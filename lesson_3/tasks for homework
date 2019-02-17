@@ -1,7 +1,7 @@
 Task 1:
 1. Craete list using syntax sugar brases
 2. Create list using list constructor
-3. Create list from string both known methods
+3. Create list from string using split method, using list constructor, using list comprehension
 3. Create list using list comprehension
 
 Task 2:
@@ -15,3 +15,21 @@ Task 2:
 Task 3:
 1. Create list of numbers and sort by ascending and descending using sort function(sort, reverse)
 2. Create own sort function using any known algorithm of sorting by ascending.
+
+Task4:
+1. Create list with numbers not ordered. Filter numbers > 0 using Filter function with lambda
+2. Create list with numbers not ordered. Filter numbers > 0 using Filter function with callback
+3. Create list with numbers not ordered. Filter number > 0 using list comprehension.
+4. Create list with numbers. Create copy of link for this list.
+5. Create list with numbers. Create copy of list using module copy.deepcopy
+6. Create list with numbers. Create copy of list using list slices.
+7. Multiply couple lists with numbers
+8. Concatenate couple lists with numbers or strings
+9. Iterate any list using for loop and print each item
+10. Iterate any list using list comprehension and print each item
+11. Create list with numbers and change each item of list using list comprehension (multiple on 2)
+12. Create list with numbers and change each item of list using lambda expression (multiple on 2)
+13. Create list with numbers and find min value using standart function
+14. Create list with numbers and find max value using standart function
+15. Create list with numbers and find min value using any existing algorithm using function
+16. Create list with numbers and find max value using any existing algorithm using function
