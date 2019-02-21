@@ -1,9 +1,11 @@
 # Task 1:
-
+# Task 1.1:
 list_1 = [1, 2, 3, 4, 5]
+# Task 1.2:
 list_2 = [x**2 for x in [1,2,3,4]]
 text_1 = "Python"
 list_3 = list(text_1)
+
 list_4 = [str(x) for x in text_1]
 
 print('Task 1:', list_1, list_2, list_3, list_4, sep='\n')
