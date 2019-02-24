@@ -48,7 +48,7 @@ print(selection_sort(list_5))
 #                      collapse it into lists.
 # TODO: common issue - Hard to understand all this prints. Please add description for each print. For example "Not
 #                      sorted list", "Sorted list"
-# TODO: common issue - before next push try to sue code analyzer > Code -> Inspect Code -> Whole project -> OK.
+# TODO: common issue - before next push try to use code analyzer > Code -> Inspect Code -> Whole project -> OK.
 #                      Remove all warnings issues and errors from iteration to iteration until no errors left.
 # TODO: line 4 - make space after comma
 # TODO: line 7 - customization of str to str make no sense
@@ -70,4 +70,5 @@ print(selection_sort(list_5))
 # TODO: line 37 - variable name is confusing and not clear destination of such variable
 # TODO: lines 31 - 40 - no comments. Please add some comments about work of your algorithm.
 # TODO: line 42 - no empty line after code
+# TODO: separate homework on several files because for now it is mess in code
 # endregion
