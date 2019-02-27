@@ -4,10 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="836614be-9dbe-4ab6-8585-b63b49d05452" name="Default" comment="In Homework_3 added sub-items to tasks (Task 1.1, Task 1.2)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/homework_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/homework_3.py" afterDir="false" />
-    </list>
+    <list default="true" id="836614be-9dbe-4ab6-8585-b63b49d05452" name="Default" comment="In Homework_3 added sub-items to tasks:&#10;Task 1.1 - Create a list&#10;Task 1.2 - Create a list using list constructor&#10;Task 1.3.1 - Create a list of strings&#10;Task 1.3.2 - Create a list using the split method&#10;Task 1.4 - Create list using list comprehension&#10;Task 2.1 - Add item to the end of the Regular_list&#10;Task 2.2 - Add item to List_constructor at fixed index&#10;Task 2.3 - Remove item from Regular_list at fixed index&#10;Task 2.4 - The function removes a specific Regular_list item&#10;Task 2.5 - The function 'pop' deletes a list item by its index&#10;Task 3.1 - Sorting the list using the function 'reverse' and 'sort'&#10;Task 3.2 - Ascending sorting algorithm&#10;Task 4.1 - Filter numbers &gt;0 using Filter function with lambda&#10;Task 4.2 - Filter numbers &gt;0 using Filter function with callback&#10;Task 4.3 - Filter number &gt;0 using list comprehension&#10;Task 4.4 - Create copy of link for this list&#10;Task 4.5 - Create copy of list using module copy.deepcopy&#10;Task 4.6 - Create copy of list using list slices&#10;Task 4.7 - Multiply all elements of the The_sun list by 5&#10;Task 4.8 - Combine all elements of the list into a string&#10;Task 4.11 - Change every list item&#10;Task 4.12 - Change each element of the list using the lambda function&#10;Task 4.13 - Find the minimum value of the list using the standard function&#10;Task 4.14 - Find the maximum value of the list using the standard function&#10;Task 4.15 - The algorithm for finding the maximum and minimum values ​​of the list" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson_3/homework_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="28" lean-forward="true" selection-end-line="172" />
+            <state relative-caret-position="578">
+              <caret line="34" column="99" lean-forward="true" selection-start-line="34" selection-start-column="99" selection-end-line="34" selection-end-column="99" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -138,7 +135,7 @@
       <workItem from="1551155157885" duration="727000" />
       <workItem from="1551204040094" duration="3643000" />
       <workItem from="1551241586565" duration="67000" />
-      <workItem from="1551286644806" duration="8145000" />
+      <workItem from="1551286644806" duration="8995000" />
     </task>
     <task id="LOCAL-00001" summary="In Homework_3 added sub-items to tasks (Task 1.1, Task 1.2)">
       <created>1550781308981</created>
@@ -147,11 +144,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550781308981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="In Homework_3 added sub-items to tasks:&#10;Task 1.1 - Create a list&#10;Task 1.2 - Create a list using list constructor&#10;Task 1.3.1 - Create a list of strings&#10;Task 1.3.2 - Create a list using the split method&#10;Task 1.4 - Create list using list comprehension&#10;Task 2.1 - Add item to the end of the Regular_list&#10;Task 2.2 - Add item to List_constructor at fixed index&#10;Task 2.3 - Remove item from Regular_list at fixed index&#10;Task 2.4 - The function removes a specific Regular_list item&#10;Task 2.5 - The function 'pop' deletes a list item by its index&#10;Task 3.1 - Sorting the list using the function 'reverse' and 'sort'&#10;Task 3.2 - Ascending sorting algorithm&#10;Task 4.1 - Filter numbers &gt;0 using Filter function with lambda&#10;Task 4.2 - Filter numbers &gt;0 using Filter function with callback&#10;Task 4.3 - Filter number &gt;0 using list comprehension&#10;Task 4.4 - Create copy of link for this list&#10;Task 4.5 - Create copy of list using module copy.deepcopy&#10;Task 4.6 - Create copy of list using list slices&#10;Task 4.7 - Multiply all elements of the The_sun list by 5&#10;Task 4.8 - Combine all elements of the list into a string&#10;Task 4.11 - Change every list item&#10;Task 4.12 - Change each element of the list using the lambda function&#10;Task 4.13 - Find the minimum value of the list using the standard function&#10;Task 4.14 - Find the maximum value of the list using the standard function&#10;Task 4.15 - The algorithm for finding the maximum and minimum values ​​of the list">
+      <created>1551297819548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551297819548</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19331000" />
+    <option name="totallyTimeSpent" value="20181000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -163,7 +167,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10660981" />
@@ -195,13 +199,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="In Homework_3 added sub-items to tasks (Task 1.1, Task 1.2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="In Homework_3 added sub-items to tasks (Task 1.1, Task 1.2)" />
+    <MESSAGE value="In Homework_3 added sub-items to tasks:&#10;Task 1.1 - Create a list&#10;Task 1.2 - Create a list using list constructor&#10;Task 1.3.1 - Create a list of strings&#10;Task 1.3.2 - Create a list using the split method&#10;Task 1.4 - Create list using list comprehension&#10;Task 2.1 - Add item to the end of the Regular_list&#10;Task 2.2 - Add item to List_constructor at fixed index&#10;Task 2.3 - Remove item from Regular_list at fixed index&#10;Task 2.4 - The function removes a specific Regular_list item&#10;Task 2.5 - The function 'pop' deletes a list item by its index&#10;Task 3.1 - Sorting the list using the function 'reverse' and 'sort'&#10;Task 3.2 - Ascending sorting algorithm&#10;Task 4.1 - Filter numbers &gt;0 using Filter function with lambda&#10;Task 4.2 - Filter numbers &gt;0 using Filter function with callback&#10;Task 4.3 - Filter number &gt;0 using list comprehension&#10;Task 4.4 - Create copy of link for this list&#10;Task 4.5 - Create copy of list using module copy.deepcopy&#10;Task 4.6 - Create copy of list using list slices&#10;Task 4.7 - Multiply all elements of the The_sun list by 5&#10;Task 4.8 - Combine all elements of the list into a string&#10;Task 4.11 - Change every list item&#10;Task 4.12 - Change each element of the list using the lambda function&#10;Task 4.13 - Find the minimum value of the list using the standard function&#10;Task 4.14 - Find the maximum value of the list using the standard function&#10;Task 4.15 - The algorithm for finding the maximum and minimum values ​​of the list" />
+    <option name="LAST_COMMIT_MESSAGE" value="In Homework_3 added sub-items to tasks:&#10;Task 1.1 - Create a list&#10;Task 1.2 - Create a list using list constructor&#10;Task 1.3.1 - Create a list of strings&#10;Task 1.3.2 - Create a list using the split method&#10;Task 1.4 - Create list using list comprehension&#10;Task 2.1 - Add item to the end of the Regular_list&#10;Task 2.2 - Add item to List_constructor at fixed index&#10;Task 2.3 - Remove item from Regular_list at fixed index&#10;Task 2.4 - The function removes a specific Regular_list item&#10;Task 2.5 - The function 'pop' deletes a list item by its index&#10;Task 3.1 - Sorting the list using the function 'reverse' and 'sort'&#10;Task 3.2 - Ascending sorting algorithm&#10;Task 4.1 - Filter numbers &gt;0 using Filter function with lambda&#10;Task 4.2 - Filter numbers &gt;0 using Filter function with callback&#10;Task 4.3 - Filter number &gt;0 using list comprehension&#10;Task 4.4 - Create copy of link for this list&#10;Task 4.5 - Create copy of list using module copy.deepcopy&#10;Task 4.6 - Create copy of list using list slices&#10;Task 4.7 - Multiply all elements of the The_sun list by 5&#10;Task 4.8 - Combine all elements of the list into a string&#10;Task 4.11 - Change every list item&#10;Task 4.12 - Change each element of the list using the lambda function&#10;Task 4.13 - Find the minimum value of the list using the standard function&#10;Task 4.14 - Find the maximum value of the list using the standard function&#10;Task 4.15 - The algorithm for finding the maximum and minimum values ​​of the list" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lesson_3/homework_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="28" lean-forward="true" selection-end-line="172" />
+        <state relative-caret-position="578">
+          <caret line="34" column="99" lean-forward="true" selection-start-line="34" selection-start-column="99" selection-end-line="34" selection-end-column="99" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
